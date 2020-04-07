@@ -24,11 +24,11 @@
     "handlebars": "^4.0.5"
   },
   "dependencies": {
-    "ltx": "^2.3.0",
-    "resolve": "^1.1.7"
+    "ltx": "^2.9.2",
+    "resolve": "^1.15.1"
   },
   "devDependencies": {
-    "handlebars": "^4.0.5",
-    "tap": "^14.6.4"
+    "handlebars": "^4.7.6",
+    "tap": "^14.10.7"
   }
 }
