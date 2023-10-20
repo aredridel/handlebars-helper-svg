@@ -29,6 +29,6 @@
   },
   "devDependencies": {
     "handlebars": "^4.7.6",
-    "tap": "^14.10.7"
+    "tap": "^18.5.2"
   }
 }
